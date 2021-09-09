@@ -1,5 +1,5 @@
 
-| [About](./another-page.html)      | [People](./another-page.html)         | [Research](./another-page.html) |[Flagship Projects](./another-page.html) |[Publications](./publications_page.html)|
+| [About](./index.html)      | [People](./people-page.html)         | [Research](./research-page.html) |[Flagship Projects](./flagprojects-page.html) |[Publications](./publications_page.html)|
 
 ## Research Mission
 
