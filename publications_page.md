@@ -8,11 +8,9 @@ Somavarapu, D.H.* and Guzzetti, D., “Toward Immersive Spacecraft Trajectory De
 
 Parmar, K.* and Guzzetti, D., “Interactive Imitation Learning for Spacecraft Path-Planning in Binary Asteroid Systems.” Advances in Space Research – accepted
 
-Perera, R., Guzzetti, D., and Agrawal, V., “Optimized and autonomous machine learning framework for characterizing pores, particles, grains and grain boundaries in microstructural images.” Computational Materials Science – major review in preparation
+Perera, R., Guzzetti, D., and Agrawal, V., “Optimized and autonomous machine learning framework for characterizing pores, particles, grains and grain boundaries in microstructural images.” Computational Materials Science – accepted
 
-Indaco*, M., Lavagna, M., and Guzzetti, D. “Autonomous Small Body Gravimetry Via A2C Path-Planning.” The Journal of the Astronautical Sciences – under review
-
-Brandonisio*, A., Lavagna, M., and Guzzetti, D. “Deep Reinforcement Learning to Enhance Fly-Around Guidance For Uncooperative Space Objects Smart Imaging.” The Journal of the Astronautical Sciences – under review
+Brandonisio*, A., Lavagna, M., and Guzzetti, D. “Deep Reinforcement Learning to Enhance Fly-Around Guidance For Uncooperative Space Objects Smart Imaging.” The Journal of the Astronautical Sciences – accepted
 
 **2019**
 
