@@ -118,7 +118,7 @@ Guzzetti, D., Armellin, R., and Lavagna, M., “Coupling Attitude and Orbital Mo
 
 Guzzetti, D., Lavagna, M., and Armellin, R., “Invariant Manifolds to Design Scientific Operative Orbits in the Pluto-Charon Binary System,” AAS/AIAA Space Flight Mechanics Meeting, Charlotte, South Carolina, January 2012
  
-**Invited Articles**
+## Invited Articles
 
 Guzzetti, D., and Howell, K., “Attitude Dynamics in the Circular Restricted Three-Body Problem,” Astrodynamics, Vol. 2, No. 2, May 2018, pp. 87-119,
 DOI:10.1007/s42064-017-0012-7 (cover article)
