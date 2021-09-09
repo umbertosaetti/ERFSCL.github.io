@@ -1,6 +1,6 @@
 title: 3i Space Dynamics
 logo: /assets/img/logo_3isd.png
 description: This laboratory is devoted to discovering new synergies between astrodynamics and the ever-evolving technology of the information age. We are working to integrate virtual reality, large computational capabilities, and machine learning techniques with advanced mathematical and dynamical understanding of spacecraft motion to create new options for classical space mission design and inspire new ideas to approach space exploration.
-show_downloads: false
-google_analytics: true
+show_downloads: true
+google_analytics: false
 theme: jekyll-theme-minimal
