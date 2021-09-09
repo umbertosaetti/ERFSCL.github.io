@@ -1,14 +1,13 @@
 
 | [About](./another-page.html)      | [People](./another-page.html)         | [Research](./another-page.html) |[Flagship Projects](./another-page.html) |[Publications](./another-page.html)|
-|:-------------|:------------------|:------|:------|:------|
 
 ## Research Mission
 
-<img src="./assets/img/planet.png" width="48">  **Interactive Solutions**: Exploring human-machine interactive solutions for astrodynamics and space applications 
+**Interactive Solutions**: Exploring human-machine interactive solutions for astrodynamics and space applications <img src="./assets/img/planet.png" width="48">  
 
-<img src="./assets/img/vizor.png" width="48">  **Immersive Computing**: Leveraging emerging mixed-reality technology for mission design processes
+**Immersive Computing**: Leveraging emerging mixed-reality technology for mission design processes <img src="./assets/img/vizor.png" width="48">  
 
-<img src="./assets/img/sputnik.png" width="48">  **Intelligent Systems**: Developing more autonomous systems
+**Intelligent Systems**: Developing more autonomous systems <img src="./assets/img/sputnik.png" width="48">  
 
 ---
 layout: default
