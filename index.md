@@ -2,9 +2,13 @@
 | [About](./another-page.html)      | [People](./another-page.html)         | [Research](./another-page.html) |[Flagship Projects](./another-page.html) |[Publications](./another-page.html)|
 |:-------------|:------------------|:------|:------|:------|
 
-# What are three "i" for?
+## Research Mission
 
+<img src="./assets/img/planet.png" width="48">  **Interactive Solutions**: Exploring human-machine interactive solutions for astrodynamics and space applications 
 
+<img src="./assets/img/vizor.png" width="48">  **Immersive Computing**: Leveraging emerging mixed-reality technology for mission design processes
+
+<img src="./assets/img/sputnik.png" width="48">  **Intelligent Systems**: Developing more autonomous systems
 
 ---
 layout: default
@@ -108,7 +112,7 @@ end
 
 ![Branching](https://guides.github.com/activities/hello-world/branching.png)
 
-![test](./assets/videos/forgingflowers_evatan_02.mp4)
+
 
 ### Definition lists can be used with HTML syntax.
 
@@ -130,10 +134,4 @@ Long, single-line code blocks should not wrap. They should horizontally scroll i
 ```
 The final element.
 ```
-[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://youtu.be/g33rB87EdNM)
-
-
-
-https://user-images.githubusercontent.com/48327100/132619055-4f081331-dd07-4e41-9ebb-925d1a5b3265.mp4
-
 
