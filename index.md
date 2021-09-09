@@ -3,11 +3,11 @@
 
 ## Research Mission
 
-**Interactive Solutions**: Exploring human-machine interactive solutions for astrodynamics and space applications <img src="./assets/img/planet.png" width="48">  
+<img src="./assets/img/planet.png" width="24"> **Interactive Solutions**: Exploring human-machine interactive solutions for astrodynamics and space applications   
 
-**Immersive Computing**: Leveraging emerging mixed-reality technology for mission design processes <img src="./assets/img/vizor.png" width="48">  
+<img src="./assets/img/vizor.png" width="24">   **Immersive Computing**: Leveraging emerging mixed-reality technology for mission design processes 
 
-**Intelligent Systems**: Developing more autonomous systems <img src="./assets/img/sputnik.png" width="48">  
+<img src="./assets/img/sputnik.png" width="24"> **Intelligent Systems**: Developing more autonomous systems  
 
 ---
 layout: default
