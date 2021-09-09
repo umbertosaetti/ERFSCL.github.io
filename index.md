@@ -1,7 +1,5 @@
 
-https://youtu.be/g33rB87EdNM
-
-https://user-images.githubusercontent.com/48327100/132619000-0af946b9-796c-4eed-888f-b968574a7cd0.mp4
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g33rB87EdNM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ---
 layout: default
