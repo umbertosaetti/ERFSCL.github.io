@@ -66,8 +66,7 @@ html {
 <div class="row">
   <div class="column">
     <div class="card">
-      <img src="./assets/img/dhathri.jpg" style="width:25%"> div class="container">
-      <
+      <img src="./assets/img/dhathri.jpg" style="width:25%"> <div class="container">
         <h2>Dhathri Somavarapu</h2>
         <p class="title">Graduate Student</p>
         <p>Her research interests include visual-based interactive design for astrodynamics that is enabled by extended reality (XR) technology.</p>
