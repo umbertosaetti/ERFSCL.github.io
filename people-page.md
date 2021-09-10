@@ -3,7 +3,7 @@
 <div class="row">
   <div class="column">
     <div class="card">
-      <img src="./assets/img/dhathri.jpg" style="width:100%">
+      <img src="./assets/img/dhathri.jpg" style="width:20%">
       <div class="container">
         <h2>Dhathri Somavarapu</h2>
         <p>Her research interests include visual-based interactive design for astrodynamics that is enabled by extended reality (XR) technology.</p>
