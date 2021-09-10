@@ -67,13 +67,13 @@ html {
 <div class="row">
   <div class="column">
     <div class="card">
-      <img src="./assets/img/dhathri.jpg" style="width:100%"> <div class="container">
+      <img src="./assets/img/dhathri.jpg" style="width:100%"> 
       </div>
     </div>
   
   <div class="column">
     <div class="card">
-      <img src="./assets/img/dhathri.jpg" style="width:100%"> <div class="container">
+      <img src="./assets/img/dhathri.jpg" style="width:100%"> 
       </div>
     </div>
 </div>
