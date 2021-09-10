@@ -1,4 +1,4 @@
-| [About](./index.html)      | [People](./people-page.html)         | [Research](./research-page.html) |[Flagship Projects](./flagprojects-page.html) |[Publications](./publications_page.html)|
+| [About](./index.html)      | [People](./people-page.html)         | [Research](./research-page.html) |[Publications](./publications_page.html)|
 
 ## Peer-reviewed journal articles
 
