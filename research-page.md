@@ -66,7 +66,7 @@ html {
  
 <div class="row">
   <div class="card">
-     <h2> Project Title </h2>
+     <p><h2> Project Title </h2></p>
     <div class="column">
       <img src="./assets/img/dhathri.jpg" style="width:100%">
     </div>
