@@ -1,5 +1,7 @@
 | [About](./index.html)      | [People](./people-page.html)         | [Research](./research-page.html) |[Flagship Projects](./flagprojects-page.html) |[Publications](./publications_page.html)|
 
+## Current Students
+
 <html>
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -131,4 +133,4 @@ html {
 </body>
 </html>
 
-## Alumni and Visiting Scholars
+## Alumni
