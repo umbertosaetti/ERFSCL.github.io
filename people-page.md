@@ -92,7 +92,7 @@ html {
     <div class="card">
       <img src="./assets/img/manuel.jpeg" style="width:100%">
       <div class="container">
-        <h2>Manuel Indaco/h2>
+        <h2>Manuel Indaco</h2>
         <p class="title">Graduate Student</p>
         <p>His research interests include the exploitation of machine learning techniques for space applications; he is currently working on the combination of VR tools and imitation learning.</p>
       </div>
