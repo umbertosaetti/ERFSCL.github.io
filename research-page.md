@@ -14,14 +14,14 @@ html {
 
 .column {
   float: left;
-  width: 100%;
+  width: 50%;
   margin-bottom: 16px;
   padding: 0 8px;
 }
 
 @media screen and (max-width: 650px) {
   .column {
-    width: 50%;
+    width: 100%;
     display: block;
   }
 }
