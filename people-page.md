@@ -77,13 +77,11 @@ html {
 
   <div class="column">
     <div class="card">
-      <img src="/w3images/team2.jpg" alt="Mike" style="width:100%">
+      <img src="./assets/img/kanak.jpg" style="width:100%">
       <div class="container">
-        <h2>Mike Ross</h2>
-        <p class="title">Art Director</p>
-        <p>Some text that describes me lorem ipsum ipsum lorem.</p>
-        <p>example@example.com</p>
-        <p><button class="button">Contact</button></p>
+        <h2>Kanak Parmar</h2>
+        <p class="title">Graduate Student</p>
+        <p>Her research interests include astrodynamics and adaptive trajectory planning algorithms. Currently, her work is focused on applying machine learning to replicate human inspired path-planning strategies within binary asteroid systems.</p>
       </div>
     </div>
   </div>
@@ -91,24 +89,22 @@ html {
 <div class="row">
   <div class="column">
     <div class="card">
-      <img src="./assets/img/dhathri.jpg" style="width:100%">
+      <img src="./assets/img/manuel.jpg" style="width:100%">
       <div class="container">
-        <h2>Dhathri Somavarapu</h2>
+        <h2>Manuel Indaco/h2>
         <p class="title">Graduate Student</p>
-        <p>Her research interests include visual-based interactive design for astrodynamics that is enabled by extended reality (XR) technology.</p>
+        <p>His research interests include the exploitation of machine learning techniques for space applications; he is currently working on the combination of VR tools and imitation learning.</p>
       </div>
     </div>
   </div>
 
   <div class="column">
     <div class="card">
-      <img src="/w3images/team2.jpg" alt="Mike" style="width:100%">
+      <img src="./assets/img/rehman.jpg" alt="Mike" style="width:100%">
       <div class="container">
-        <h2>Mike Ross</h2>
-        <p class="title">Art Director</p>
-        <p>Some text that describes me lorem ipsum ipsum lorem.</p>
-        <p>example@example.com</p>
-        <p><button class="button">Contact</button></p>
+        <h2>Rehman Qureshi</h2>
+        <p class="title">Graduate Student</p>
+        <p>His research interests include constellation design and artificial intelligence. Currently, his work is focused on gamification and modeling of mega-constellation competition in which agents may launch and maintain constellations to simulate profits from high speed internet services.</p>
       </div>
     </div>
   </div>
