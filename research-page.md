@@ -70,7 +70,7 @@ html {
       <img src="./assets/img/vizor.png" style="width:100%">
     </div>
     <div class="column">
-      <img src="./assets/img/sputnik.png" style="width:100%">
+      <img src="./assets/img/vizor.png" style="width:100%">
     </div>
      <div class="container">
         <h2>Project Title</h2>
