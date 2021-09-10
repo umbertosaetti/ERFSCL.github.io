@@ -89,7 +89,7 @@ html {
 <div class="row">
   <div class="column">
     <div class="card">
-      <img src="./assets/img/manuel.jpg" style="width:100%">
+      <img src="./assets/img/manuel.jpeg" style="width:100%">
       <div class="container">
         <h2>Manuel Indaco/h2>
         <p class="title">Graduate Student</p>
@@ -109,5 +109,4 @@ html {
     </div>
   </div>
 
-</body>
 </html>
