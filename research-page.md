@@ -21,7 +21,7 @@ html {
 
 @media screen and (max-width: 650px) {
   .column {
-    width: 100%;
+    width: 50%;
     display: block;
   }
 }
@@ -63,19 +63,24 @@ html {
 </head>
 <body>
 
+  <h2> Project Title </h>
 <div class="row">
   <div class="column">
     <div class="card">
-      <img src="./assets/img/dhathri.jpg" style="width:25%"> <div class="container">
-        <h2>Dhathri Somavarapu</h2>
-        <p class="title">Graduate Student</p>
-        <p>Her research interests include visual-based interactive design for astrodynamics that is enabled by extended reality (XR) technology.</p>
+      <img src="./assets/img/dhathri.jpg" style="width:100%"> <div class="container">
       </div>
     </div>
   </div>
 
+    <div class="card">
+      <img src="./assets/img/dhathri.jpg" style="width:100%"> <div class="container">
+      </div>
+    </div>
+  </div>
 </div>
   
-
+  <p> Project description </p>
+  
+  <button> test <\button>
 </body>
 </html>
