@@ -1,7 +1,7 @@
 
 | [About](./index.html)      | [People](./people-page.html)         | [Research](./research-page.html) |[Flagship Projects](./flagprojects-page.html) |[Publications](./publications_page.html)|
 
-## Research Mission
+## Research Vision
 
 **Interactive Solutions** <img src="./assets/img/planet.png" width="24"> Exploring human-machine interactive solutions for astrodynamics and space applications   
 
