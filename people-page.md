@@ -77,7 +77,7 @@ html {
 
   <div class="column">
     <div class="card">
-      <img src="./assets/img/kanak.jpg" style="width:100%">
+      <img src="./assets/img/kanak.JPG" style="width:100%">
       <div class="container">
         <h2>Kanak Parmar</h2>
         <p class="title">Graduate Student</p>
@@ -101,7 +101,7 @@ html {
 
   <div class="column">
     <div class="card">
-      <img src="./assets/img/rehman.jpg" alt="Mike" style="width:100%">
+      <img src="./assets/img/rehman.jpg" style="width:100%">
       <div class="container">
         <h2>Rehman Qureshi</h2>
         <p class="title">Graduate Student</p>
