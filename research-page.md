@@ -65,15 +65,13 @@ html {
 
   <h2> Project Title </h2>
 <div class="row">
-  <div class="column">
-    <div class="card">
+  <div class="card">
+    <div class="column">
+    
       <img src="./assets/img/dhathri.jpg" style="width:100%">
 
     </div>
-  </div>
-
-  <div class="column">
-    <div class="card">
+    <div class="column">
       <img src="./assets/img/kanak.JPG" style="width:100%">
       
     </div>
