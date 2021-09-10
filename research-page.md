@@ -67,19 +67,21 @@ html {
 <div class="row">
   <div class="card">
     <div class="column">
-    
       <img src="./assets/img/dhathri.jpg" style="width:100%">
-
     </div>
     <div class="column">
       <img src="./assets/img/kanak.JPG" style="width:100%">
-      
     </div>
+     <div class="container">
+        <h2>Dhathri Somavarapu</h2>
+        <p class="title">Graduate Student</p>
+        <p>Her research interests include visual-based interactive design for astrodynamics that is enabled by extended reality (XR) technology.</p>
+       
+        <button> test </button>
+      </div>
   </div>
 </div>
+ 
   
-  <p> Project description </p>
-  
-  <button> test </button>
 </body>
 </html>
