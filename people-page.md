@@ -88,6 +88,18 @@ html {
 </div>
   
 <div class="row">
+  
+    <div class="column">
+    <div class="card">
+      <img src="./assets/img/rehman.jpg" style="width:100%">
+      <div class="container">
+        <h2>Rehman Qureshi</h2>
+        <p class="title">Graduate Student</p>
+        <p>His research interests include constellation design and artificial intelligence. </p>
+      </div>
+    </div>
+  </div>
+  
   <div class="column">
     <div class="card">
       <img src="./assets/img/manuel.jpeg" style="width:100%">
@@ -99,16 +111,7 @@ html {
     </div>
   </div>
 
-  <div class="column">
-    <div class="card">
-      <img src="./assets/img/rehman.jpg" style="width:100%">
-      <div class="container">
-        <h2>Rehman Qureshi</h2>
-        <p class="title">Graduate Student</p>
-        <p>His research interests include constellation design and artificial intelligence. </p>
-      </div>
-    </div>
-  </div>
+
 </div>
 </body>
 </html>
