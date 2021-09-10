@@ -81,7 +81,7 @@ html {
       <div class="container">
         <h2>Kanak Parmar</h2>
         <p class="title">Graduate Student</p>
-        <p>Her research interests include astrodynamics and adaptive trajectory planning algorithms. Currently, her work is focused on applying machine learning to replicate human inspired path-planning strategies within binary asteroid systems.</p>
+        <p>Her research interests include astrodynamics and adaptive trajectory planning algorithms.</p>
       </div>
     </div>
   </div>
@@ -94,7 +94,7 @@ html {
       <div class="container">
         <h2>Manuel Indaco</h2>
         <p class="title">Graduate Student</p>
-        <p>His research interests include the exploitation of machine learning techniques for space applications; he is currently working on the combination of VR tools and imitation learning.</p>
+        <p>His research interests include the exploitation of machine learning techniques for space applications.</p>
       </div>
     </div>
   </div>
@@ -105,7 +105,7 @@ html {
       <div class="container">
         <h2>Rehman Qureshi</h2>
         <p class="title">Graduate Student</p>
-        <p>His research interests include constellation design and artificial intelligence. Currently, his work is focused on gamification and modeling of mega-constellation competition in which agents may launch and maintain constellations to simulate profits from high speed internet services.</p>
+        <p>His research interests include constellation design and artificial intelligence. </p>
       </div>
     </div>
   </div>
