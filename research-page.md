@@ -67,10 +67,10 @@ html {
 <div class="row">
   <div class="card">
     <div class="column">
-      <img src="./assets/img/vizor.jpg" style="width:100%">
+      <img src="./assets/img/vizor.png" style="width:100%">
     </div>
     <div class="column">
-      <img src="./assets/img/sputnik.JPG" style="width:100%">
+      <img src="./assets/img/sputnik.png" style="width:100%">
     </div>
      <div class="container">
         <h2>Project Title</h2>
