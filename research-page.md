@@ -63,7 +63,7 @@ html {
 </head>
 <body>
 
-  <h2> Project Title </h>
+  <h2> Project Title </h2>
 <div class="row">
   <div class="column">
     <div class="card">
@@ -81,6 +81,6 @@ html {
   
   <p> Project description </p>
   
-  <button> test <\button>
+  <button> test </button>
 </body>
 </html>
