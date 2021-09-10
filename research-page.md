@@ -1,8 +1,82 @@
 | [About](./index.html)      | [People](./people-page.html)         | [Research](./research-page.html) | [Publications](./publications_page.html)|
 
-just an example taken from  https://www.lerrelpinto.com/
-
 <html>
-<a href=# class="btn btn-outline-primary btn-page-header btn-sm js-cite-modal" data-filename=/publication/humanadversary/cite.bib>Cite</a></div></div></div><br><div class=row><div class="col-12 col-lg-3"><a href=https://www.pyrobot.org/><img src=https://thumbs.gfycat.com/DownrightDearIndianabat-size_restricted.gif alt="PyRobot: An Open-source Robotics Framework for Research and Benchmarking" class=lazyload width=240px margintop=20px margin-top=20px alt=GIF></a></div><div class=media-body><div class="section-subheading article-title mb-0 mt-0"><a href=https://www.pyrobot.org/>PyRobot: An Open-source Robotics Framework for Research and Benchmarking</a></div><div class="stream-meta article-metadata"><div><span>Adithya Murali</span>, <span>Tao Chen</span>, <span>Kalyan Vasudev Alwala</span>, <span>Dhiraj Gandhi</span>, <span class=author-highlighted>Lerrel Pinto</span>, <span>Saurabh Gupta</span>, <span>Abhinav Gupta</span></div><div class=article-style>Open source platform (https://www.pyrobot.org/)</div></div><div class=btn-links><a class="btn btn-outline-primary btn-page-header btn-sm" href=https://www.pyrobot.org/ target=_blank rel=noopener>PDF</a>
-<a href=# class="btn btn-outline-primary btn-page-header btn-sm js-cite-modal" data-filename=/publication/pyrobot/cite.bib>Cite</a>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+html {
+  box-sizing: border-box;
+}
+
+*, *:before, *:after {
+  box-sizing: inherit;
+}
+
+.column {
+  float: left;
+  width: 100%;
+  margin-bottom: 16px;
+  padding: 0 8px;
+}
+
+@media screen and (max-width: 650px) {
+  .column {
+    width: 100%;
+    display: block;
+  }
+}
+
+.card {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+}
+
+.container {
+  padding: 0 16px;
+}
+
+.container::after, .row::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+
+.title {
+  color: grey;
+}
+
+.button {
+  border: none;
+  outline: 0;
+  display: inline-block;
+  padding: 8px;
+  color: white;
+  background-color: #000;
+  text-align: center;
+  cursor: pointer;
+  width: 100%;
+}
+
+.button:hover {
+  background-color: #555;
+}
+</style>
+</head>
+<body>
+
+<div class="row">
+  <div class="column">
+    <div class="card">
+      <img src="./assets/img/dhathri.jpg" style="width:25%"> div class="container">
+      <
+        <h2>Dhathri Somavarapu</h2>
+        <p class="title">Graduate Student</p>
+        <p>Her research interests include visual-based interactive design for astrodynamics that is enabled by extended reality (XR) technology.</p>
+      </div>
+    </div>
+  </div>
+
+</div>
+  
+
+</body>
 </html>
