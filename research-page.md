@@ -63,9 +63,10 @@ html {
 </head>
 <body>
 
-  <h2> Project Title </h2>
+ 
 <div class="row">
   <div class="card">
+     <h2> Project Title </h2>
     <div class="column">
       <img src="./assets/img/dhathri.jpg" style="width:100%">
     </div>
@@ -77,7 +78,7 @@ html {
         <p class="title">Graduate Student</p>
         <p>Her research interests include visual-based interactive design for astrodynamics that is enabled by extended reality (XR) technology.</p>
        
-        <button> test </button>
+        <p><button class="button">Contact</button></p>
       </div>
   </div>
 </div>
