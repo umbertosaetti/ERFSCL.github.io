@@ -70,13 +70,12 @@ html {
       <img src="./assets/img/dhathri.jpg" style="width:100%"> <div class="container">
       </div>
     </div>
-  </div>
-
+  
+  <div class="column">
     <div class="card">
       <img src="./assets/img/dhathri.jpg" style="width:100%"> <div class="container">
       </div>
     </div>
-  </div>
 </div>
   
   <p> Project description </p>
