@@ -9,12 +9,14 @@
 
 **Intelligent Systems** <img src="./assets/img/sputnik.png" width="24"> Developing more autonomous systems  
 
-## Currently Active Research Areas
+## Research Areas
 
 * Astrodynamics
+* Application of Dynamical Systems Theory
 * Application of Immersive Computing
 * Application of Machine Learning
 * Space Systems Design and Modelling
+* Proliferated Satellite Constellations
 
 
 ## Contact Us
