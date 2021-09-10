@@ -82,6 +82,23 @@ html {
   </div>
 </div>
  
+ <div class="row">
+  <div class="card">
+    <div class="column">
+      <img src="./assets/img/vizor.png" style="width:100%">
+    </div>
+    <div class="column">
+      <img src="./assets/img/vizor.png" style="width:100%">
+    </div>
+     <div class="container">
+        <h2>Project Title</h2>
+        <p class="title">Collaborators</p>
+        <p>Description of the project</p>
+       
+        <p><button class="button">Contact</button></p>
+      </div>
+  </div>
+</div>
   
 </body>
 </html>
