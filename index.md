@@ -3,11 +3,11 @@
 
 ## Research Vision
 
-**Interactive Solutions** <img src="./assets/img/planet.png" width="24"> Exploring human-machine interactive solutions for astrodynamics and space applications   
+**Interactive Solutions** <img src="./assets/img/planet.png" width="24"> Harnessing human-machine collaboration for astrodynamics and space applications   
 
-**Immersive Computing** <img src="./assets/img/vizor.png" width="24"> Leveraging emerging mixed-reality technology for mission design processes 
+**Immersive Computing** <img src="./assets/img/vizor.png" width="24"> Rethinking mission design processes in mixed-reality
 
-**Intelligent Systems** <img src="./assets/img/sputnik.png" width="24"> Developing more autonomous systems  
+**Intelligent Systems** <img src="./assets/img/sputnik.png" width="24"> Developing more autonomous space systems  
 
 ## Research Areas
 
