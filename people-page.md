@@ -85,6 +85,7 @@ html {
       </div>
     </div>
   </div>
+</div>
   
 <div class="row">
   <div class="column">
@@ -108,5 +109,6 @@ html {
       </div>
     </div>
   </div>
-
+</div>
+</body>
 </html>
