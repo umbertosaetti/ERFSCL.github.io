@@ -17,6 +17,7 @@
 * Application of Machine Learning
 * Space Systems Design and Modelling
 * Proliferated Satellite Constellations
+* Flat-Fabrication of Self-Assembling Systems
 
 
 ## Contact Us
