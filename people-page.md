@@ -14,7 +14,7 @@ html {
 
 .column {
   float: left;
-  width: 33.3%;
+  width: 50%;
   margin-bottom: 16px;
   padding: 0 8px;
 }
@@ -88,19 +88,30 @@ html {
     </div>
   </div>
   
+<div class="row">
   <div class="column">
     <div class="card">
-      <img src="/w3images/team3.jpg" alt="John" style="width:100%">
+      <img src="./assets/img/dhathri.jpg" style="width:100%">
       <div class="container">
-        <h2>John Doe</h2>
-        <p class="title">Designer</p>
+        <h2>Dhathri Somavarapu</h2>
+        <p class="title">Graduate Student</p>
+        <p>Her research interests include visual-based interactive design for astrodynamics that is enabled by extended reality (XR) technology.</p>
+      </div>
+    </div>
+  </div>
+
+  <div class="column">
+    <div class="card">
+      <img src="/w3images/team2.jpg" alt="Mike" style="width:100%">
+      <div class="container">
+        <h2>Mike Ross</h2>
+        <p class="title">Art Director</p>
         <p>Some text that describes me lorem ipsum ipsum lorem.</p>
         <p>example@example.com</p>
         <p><button class="button">Contact</button></p>
       </div>
     </div>
   </div>
-</div>
 
 </body>
 </html>
