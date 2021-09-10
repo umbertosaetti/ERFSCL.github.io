@@ -113,5 +113,20 @@ html {
 
 
 </div>
+  
+  <div class="row">
+  
+    <div class="column">
+    <div class="card">
+      <img src="./assets/img/lucy.jpg" style="width:100%">
+      <div class="container">
+        <h2>Lucy Bone</h2>
+        <p class="title">Undergraduate Student</p>
+        <p>Her research interests include trajectory optimization and design, and sustainable propulsion; </p>
+      </div>
+    </div>
+  </div>
+  
+</div>
 </body>
 </html>
