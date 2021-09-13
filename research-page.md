@@ -59,6 +59,25 @@ html {
 .button:hover {
   background-color: #555;
 }
+  
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+<!-- Add icon library -->
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<style>
+.btn {
+  background-color: DodgerBlue;
+  border: none;
+  color: white;
+  padding: 12px 16px;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+/* Darker background on mouse-over */
+.btn:hover {
+  background-color: RoyalBlue;
+}
+  
 </style>
 </head>
 <body>
@@ -76,6 +95,13 @@ html {
         <h2>Project Title</h2>
         <p class="title">Collaborators</p>
         <p>Description of the project</p>
+       
+       <p>Icon buttons with text:</p>
+<button class="btn"><i class="fa fa-home"></i> Home</button>
+<button class="btn"><i class="fa fa-bars"></i> Menu</button>
+<button class="btn"><i class="fa fa-trash"></i> Trash</button>
+<button class="btn"><i class="fa fa-close"></i> Close</button>
+<button class="btn"><i class="fa fa-folder"></i> 
        
         <p><button class="button">Contact</button></p>
       </div>
