@@ -82,8 +82,15 @@ html {
 </head>
 <body>
 
- 
-<div class="row">
+<h2>Legend</h2>
+<button class="btn"><i class="fa fa-television"></i> Poster</button>
+<button class="btn"><i class="fa fa-pdf"></i> Article</button>
+<button class="btn"><i class="fa fa-youtube-play"></i> Video</button>
+<button class="btn"><i class="fa fa-mortar-board"></i> Edu Content</button>
+<button class="btn"><i class="fa fa-gamepad"> Interactive Content</i> 
+<p><button class="button">Contact</button></p>
+
+  <div class="row">
   <div class="card">
     <div class="column">
       <img src="./assets/img/vizor.png" style="width:100%">
@@ -97,11 +104,11 @@ html {
         <p>Description of the project</p>
        
        <p>Icon buttons with text:</p>
-<button class="btn"><i class="fa fa-home"></i> Home</button>
-<button class="btn"><i class="fa fa-bars"></i> Menu</button>
-<button class="btn"><i class="fa fa-trash"></i> Trash</button>
-<button class="btn"><i class="fa fa-close"></i> Close</button>
-<button class="btn"><i class="fa fa-folder"></i> 
+<button class="btn"><i class="fa fa-television"></i></button>
+<button class="btn"><i class="fa fa-pdf"></i> 2021 </button>
+<button class="btn"><i class="fa fa-youtube-play"></i></button>
+<button class="btn"><i class="fa fa-mortar-board"></i> Close</button>
+<button class="btn"><i class="fa fa-gamepad"></i> 
        
         <p><button class="button">Contact</button></p>
       </div>
