@@ -83,11 +83,11 @@ html {
 <body>
 
 <h2>Legend</h2>
-<button class="btn"><i class="fa fa-television"></i> Poster</button>
+<p><button class="btn"><i class="fa fa-television"></i> Poster</button>
 <button class="btn"><i class="fa fa-file-pdf-o"></i> Article</button>
 <button class="btn"><i class="fa fa-youtube-play"></i> Video</button>
 <button class="btn"><i class="fa fa-mortar-board"></i> Edu Content</button>
-<button class="btn"><i class="fa fa-gamepad"></i> Interactive Content</button>
+  <button class="btn"><i class="fa fa-gamepad"></i> Interactive Content</button></p>
 
   <div class="row">
   <div class="card">
@@ -103,11 +103,11 @@ html {
         <p>Description of the project</p>
        
        <p>Icon buttons with text:</p>
-<button class="btn"><i class="fa fa-television"></i></button>
+<p><button class="btn"><i class="fa fa-television"></i></button>
 <button class="btn"><i class="fa fa-file-pdf-o"></i> 2021 </button>
 <button class="btn"><i class="fa fa-youtube-play"></i></button>
 <button class="btn"><i class="fa fa-mortar-board"></i> Close</button>
-<button class="btn"><i class="fa fa-gamepad"></i> </button>
+  <button class="btn"><i class="fa fa-gamepad"></i> </button></p>
        
       </div>
   </div>
