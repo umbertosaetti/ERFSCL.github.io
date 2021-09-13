@@ -110,7 +110,6 @@ html {
 <button class="btn"><i class="fa fa-mortar-board"></i> Close</button>
 <button class="btn"><i class="fa fa-gamepad"></i> 
        
-        <p><button class="button">Contact</button></p>
       </div>
   </div>
 </div>
