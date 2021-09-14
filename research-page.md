@@ -65,9 +65,9 @@ html {
 }
 
 .btn {
-  background-color: DodgerBlue;
+  background-color: MistyRose;
   border: none;
-  color: white;
+  color: black;
   padding: 12px 16px;
   font-size: 16px;
   cursor: pointer;
@@ -75,7 +75,7 @@ html {
 
 /* Darker background on mouse-over */
 .btn:hover {
-  background-color: RoyalBlue;
+  background-color: LightCoral;
 }
   
 </style>
@@ -86,9 +86,10 @@ html {
 <p><button class="btn"><i class="fa fa-television"></i> Poster</button>
 <button class="btn"><i class="fa fa-file-pdf-o"></i> Article</button>
 <button class="btn"><i class="fa fa-youtube-play"></i> Video</button>
-<button class="btn"><i class="fa fa-mortar-board"></i> Edu Content</button>
-  <button class="btn"><i class="fa fa-gamepad"></i> Interactive Content</button></p>
+<button class="btn"><i class="fa fa-mortar-board"></i> Edu Content</button></p>
+ <p>   <button class="btn"><i class="fa fa-gamepad"></i> Interactive Content</button></p>
 
+  <!--  
   <div class="row">
   <div class="card">
     <div class="column">
@@ -104,14 +105,37 @@ html {
        
        <p>Icon buttons with text:</p>
 <p><button class="btn" onclick="window.location.href='https://w3docs.com';"><i class="fa fa-television"></i></button>
-<button class="btn" onclick="window.location.href='./assets/projects/multibody/L1Lyapunov.gif';"><i class="fa fa-file-pdf-o"></i> 2021 </button>
+<a href="./assets/projects/multibody/artwork007.png" download> <button class="btn"><i class="fa fa-file-pdf-o"></i> 2021 </button> </a>
 <button class="btn"><i class="fa fa-youtube-play"></i></button>
 <button class="btn"><i class="fa fa-mortar-board"></i> Close</button>
   <button class="btn"><i class="fa fa-gamepad"></i> </button></p>
        
       </div>
   </div>
-</div>
+</div> 
+//-->
+  
+<div class="row">
+  <div class="card">
+    <div class="column">
+      <img src="./assets/projects/multibody/artwork007.png" style="width:100%">
+    </div>
+    <div class="column">
+      <img src="./assets/projects/multibody/L1Lyapunov.gif" style="width:100%">
+    </div>
+     <div class="container">
+        <h2>6DOF Motion within Multi-Body Gravitational Fields</h2>    
+       <p>
+<a href="https://engineering.purdue.edu/people/kathleen.howell.1/Publications/Conferences/2017_AAS_GuzZimHowDav.pdf" download> <button class="btn"><i class="fa fa-file-pdf-o"></i> 2017 </button> </a>
+       <a href="https://link.springer.com/article/10.1007/s42064-017-0012-7"> <button class="btn"><i class="fa fa-file-pdf-o"></i> 2018 </button> </a>
+       <a href="./assets/projects/multibody/guzzetti2019.pdf" download> <button class="btn"><i class="fa fa-file-pdf-o"></i> 2019 </button> </a> </p>
+            <p>
+<a href="https://auburncatalog.instructure.com/enroll/GYJ6JC" > <button class="btn"><i class="fa fa-mortar-board"></i> Intro to Multibody Dynamics</button> </a>
+<a href="https://respected-deeply-allspice.glitch.me/" > <button class="btn"><i class="fa fa-gamepad"></i> Halo Orbit VR </button> </a></p>
+       
+      </div>
+  </div>
+</div> 
  
  <div class="row">
   <div class="card">
