@@ -92,10 +92,10 @@ html {
   <div class="row">
   <div class="card">
     <div class="column">
-      <img src="./assets/img/vizor.png" style="width:100%">
+      <img src="./assets/img/artwork007.png" style="width:100%">
     </div>
     <div class="column">
-      <img src="./assets/img/vizor.png" style="width:100%">
+      <img src="./assets/img/L1Lyapunov.gif" style="width:100%">
     </div>
      <div class="container">
         <h2>Project Title</h2>
@@ -103,7 +103,7 @@ html {
         <p>Description of the project</p>
        
        <p>Icon buttons with text:</p>
-<p><button class="btn"><i class="fa fa-television"></i></button>
+<p><button class="btn" onclick="window.location.href='https://w3docs.com';"><i class="fa fa-television"></i></button>
 <button class="btn"><i class="fa fa-file-pdf-o"></i> 2021 </button>
 <button class="btn"><i class="fa fa-youtube-play"></i></button>
 <button class="btn"><i class="fa fa-mortar-board"></i> Close</button>
