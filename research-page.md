@@ -67,7 +67,7 @@ html {
 .btn {
   background-color: MistyRose;
   border: none;
-  color: white;
+  color: black;
   padding: 12px 16px;
   font-size: 16px;
   cursor: pointer;
