@@ -89,7 +89,7 @@ html {
 <button class="btn"><i class="fa fa-mortar-board"></i> Edu Content</button></p>
  <p>   <button class="btn"><i class="fa fa-gamepad"></i> Interactive Content</button></p>
 
-  <!––  
+  <!--  
   <div class="row">
   <div class="card">
     <div class="column">
@@ -113,7 +113,7 @@ html {
       </div>
   </div>
 </div> 
- ––> 
+-->
   
 <div class="row">
   <div class="card">
