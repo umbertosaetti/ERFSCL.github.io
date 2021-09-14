@@ -104,7 +104,7 @@ html {
        
        <p>Icon buttons with text:</p>
 <p><button class="btn" onclick="window.location.href='https://w3docs.com';"><i class="fa fa-television"></i></button>
-<button class="btn" onclick="window.location.href='./assets/projects/multibody/L1Lyapunov.gif';"><i class="fa fa-file-pdf-o"></i> 2021 </button>
+<button class="btn" onclick="window.location.href='./assets/projects/multibody/L1Lyapunov.gif' download;"><i class="fa fa-file-pdf-o"></i> 2021 </button>
 <button class="btn"><i class="fa fa-youtube-play"></i></button>
 <button class="btn"><i class="fa fa-mortar-board"></i> Close</button>
   <button class="btn"><i class="fa fa-gamepad"></i> </button></p>
