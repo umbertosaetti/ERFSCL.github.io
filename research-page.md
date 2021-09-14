@@ -65,7 +65,7 @@ html {
 }
 
 .btn {
-  background-color: DodgerBlue;
+  background-color: LightSalmon;
   border: none;
   color: white;
   padding: 12px 16px;
@@ -75,7 +75,7 @@ html {
 
 /* Darker background on mouse-over */
 .btn:hover {
-  background-color: RoyalBlue;
+  background-color: LightCoral;
 }
   
 </style>
