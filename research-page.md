@@ -89,7 +89,7 @@ html {
 <button class="btn"><i class="fa fa-mortar-board"></i> Edu Content</button></p>
  <p>   <button class="btn"><i class="fa fa-gamepad"></i> Interactive Content</button></p>
 
-  <div class="row">
+ <! ––  <div class="row">
   <div class="card">
     <div class="column">
       <img src="./assets/projects/multibody/artwork007.png" style="width:100%">
@@ -111,7 +111,28 @@ html {
        
       </div>
   </div>
-</div>
+</div> ––> 
+  
+<div class="row">
+  <div class="card">
+    <div class="column">
+      <img src="./assets/projects/multibody/artwork007.png" style="width:100%">
+    </div>
+    <div class="column">
+      <img src="./assets/projects/multibody/L1Lyapunov.gif" style="width:100%">
+    </div>
+     <div class="container">
+        <h2>6DOF Motion within Multi-Body Gravitational Fields</h2>       
+<a href="https://engineering.purdue.edu/people/kathleen.howell.1/Publications/Conferences/2017_AAS_GuzZimHowDav.pdf" download> <button class="btn"><i class="fa fa-file-pdf-o"></i> 2017 </button> </a>
+       <a href="https://link.springer.com/article/10.1007/s42064-017-0012-7"> <button class="btn"><i class="fa fa-file-pdf-o"></i> 2018 </button> </a>
+       <a href="./assets/projects/multibody/guzzetti2019.pdf" download> <button class="btn"><i class="fa fa-file-pdf-o"></i> 2018 </button> </a>
+<button class="btn"><i class="fa fa-youtube-play"></i></button>
+<a href="https://auburncatalog.instructure.com/enroll/GYJ6JC" > <button class="btn"><i class="fa fa-mortar-board"></i> Intro to Multibody Dynamics</button> </a>
+<a href="https://respected-deeply-allspice.glitch.me/" > <button class="btn"><i class="fa fa-gamepad"></i> Halo Orbit VR </button> </a></p>
+       
+      </div>
+  </div>
+</div> 
  
  <div class="row">
   <div class="card">
