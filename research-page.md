@@ -65,7 +65,7 @@ html {
 }
 
 .btn {
-  background-color: LightSalmon;
+  background-color: MistyRose;
   border: none;
   color: white;
   padding: 12px 16px;
@@ -86,8 +86,8 @@ html {
 <p><button class="btn"><i class="fa fa-television"></i> Poster</button>
 <button class="btn"><i class="fa fa-file-pdf-o"></i> Article</button>
 <button class="btn"><i class="fa fa-youtube-play"></i> Video</button>
-<button class="btn"><i class="fa fa-mortar-board"></i> Edu Content</button>
-  <button class="btn"><i class="fa fa-gamepad"></i> Interactive Content</button></p>
+<button class="btn"><i class="fa fa-mortar-board"></i> Edu Content</button></p>
+ <p>   <button class="btn"><i class="fa fa-gamepad"></i> Interactive Content</button></p>
 
   <div class="row">
   <div class="card">
