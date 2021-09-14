@@ -124,11 +124,13 @@ html {
       <img src="./assets/projects/multibody/L1Lyapunov.gif" style="width:100%">
     </div>
      <div class="container">
-        <h2>6DOF Motion within Multi-Body Gravitational Fields</h2>       
+        <h2>6DOF Motion within Multi-Body Gravitational Fields</h2>    
+       <p>
 <a href="https://engineering.purdue.edu/people/kathleen.howell.1/Publications/Conferences/2017_AAS_GuzZimHowDav.pdf" download> <button class="btn"><i class="fa fa-file-pdf-o"></i> 2017 </button> </a>
        <a href="https://link.springer.com/article/10.1007/s42064-017-0012-7"> <button class="btn"><i class="fa fa-file-pdf-o"></i> 2018 </button> </a>
        <a href="./assets/projects/multibody/guzzetti2019.pdf" download> <button class="btn"><i class="fa fa-file-pdf-o"></i> 2018 </button> </a>
-<button class="btn"><i class="fa fa-youtube-play"></i></button>
+<button class="btn"><i class="fa fa-youtube-play"></i></button></p>
+            <p>
 <a href="https://auburncatalog.instructure.com/enroll/GYJ6JC" > <button class="btn"><i class="fa fa-mortar-board"></i> Intro to Multibody Dynamics</button> </a>
 <a href="https://respected-deeply-allspice.glitch.me/" > <button class="btn"><i class="fa fa-gamepad"></i> Halo Orbit VR </button> </a></p>
        
