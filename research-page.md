@@ -166,7 +166,7 @@ html {
       <img src="./assets/projects/pleo/sattycoon.gif" style="width:100%">
     </div>
     <div class="column">
-      <img src="./assets/projects/pleo/atlasn.jpg" style="width:100%">
+      <img src="./assets/projects/pleo/atlasn.png" style="width:100%">
     </div>
     </p>
      <div class="container">
