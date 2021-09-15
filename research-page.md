@@ -114,7 +114,7 @@ html {
   </div>
 </div> 
 //-->
-  
+   <p>
 <div class="row">
   <div class="card">
     <div class="column">
@@ -136,7 +136,8 @@ html {
       </div>
   </div>
 </div> 
- 
+ </p>
+        <p>
  <div class="row">
   <div class="card">
     <div class="column">
@@ -151,7 +152,8 @@ html {
       </div>
   </div>
 </div>
-  
+  </p>
+      <p>  
 <div class="row">
   <div class="card">
     <div class="column">
@@ -166,6 +168,7 @@ html {
       </div>
   </div>
 </div>
-  
+  </p>
+       
 </body>
 </html>
