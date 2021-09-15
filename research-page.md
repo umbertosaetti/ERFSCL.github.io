@@ -140,10 +140,10 @@ html {
  <div class="row">
   <div class="card">
     <div class="column">
-      <img src="./assets/projects/flatsat/NIAC_cover_GuzzettiMailen - withLogo - v2.png" style="width:100%">
+      <img src="./assets/projects/flatfab/NIAC_cover_GuzzettiMailen - withLogo - v2.png" style="width:100%">
     </div>
     <div class="column">
-      <img src="./assets/projects/flatsat/solar_constant_experiment.png" style="width:100%">
+      <img src="./assets/projects/flatfab/solar_constant_experiment.png" style="width:100%">
     </div>
      <div class="container">
         <h2>Flat Fabrication of Self-Assembling Space Systems</h2>
