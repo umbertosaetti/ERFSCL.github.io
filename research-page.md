@@ -130,7 +130,7 @@ html {
        <a href="https://link.springer.com/article/10.1007/s42064-017-0012-7"> <button class="btn"><i class="fa fa-file-pdf-o"></i> 2018 </button> </a>
        <a href="./assets/projects/multibody/guzzetti2019.pdf" download> <button class="btn"><i class="fa fa-file-pdf-o"></i> 2019 </button> </a> </p>
             <p>
-<a href="https://auburncatalog.instructure.com/enroll/GYJ6JC" > <button class="btn"><i class="fa fa-mortar-board"></i> Intro to Multibody Dynamics</button> </a>
+<a href="https://auburncatalog.instructure.com/enroll/GYJ6JC" > <button class="btn"><i class="fa fa-mortar-board"></i> Intro to Multi-Body Dynamics</button> </a>
 <a href="https://respected-deeply-allspice.glitch.me/" > <button class="btn"><i class="fa fa-gamepad"></i> Halo Orbit VR </button> </a></p>
        
       </div>
@@ -140,14 +140,29 @@ html {
  <div class="row">
   <div class="card">
     <div class="column">
-      <img src="./assets/img/NIAC_cover_GuzzettiMailen - withLogo - v2.png" style="width:100%">
+      <img src="./assets/projects/flatsat/NIAC_cover_GuzzettiMailen - withLogo - v2.png" style="width:100%">
     </div>
     <div class="column">
-      <img src="./assets/img/solar_constant_experiment.png" style="width:100%">
+      <img src="./assets/projects/flatsat/solar_constant_experiment.png" style="width:100%">
     </div>
      <div class="container">
         <h2>Flat Fabrication of Self-Assembling Space Systems</h2>
         <p class="title">Collaborators: Russell Mailen</p>
+      </div>
+  </div>
+</div>
+  
+<div class="row">
+  <div class="card">
+    <div class="column">
+      <img src="./assets/projects/pleo/sattycoon.gif" style="width:100%">
+    </div>
+    <div class="column">
+      <img src="./assets/projects/pleo/atlasn.jpg" style="width:100%">
+    </div>
+     <div class="container">
+        <h2>Reseliance of Proliferated LEO Constellations</h2>
+        <p class="title">Collaborators: Daniel Tauritz</p>
       </div>
   </div>
 </div>
