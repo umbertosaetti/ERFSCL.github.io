@@ -140,17 +140,14 @@ html {
  <div class="row">
   <div class="card">
     <div class="column">
-      <img src="./assets/img/vizor.png" style="width:100%">
+      <img src="./assets/img/NIAC_cover_GuzzettiMailen - withLogo - v2.png" style="width:100%">
     </div>
     <div class="column">
-      <img src="./assets/img/vizor.png" style="width:100%">
+      <img src="./assets/img/solar_constant_experiment.png" style="width:100%">
     </div>
      <div class="container">
-        <h2>Project Title</h2>
-        <p class="title">Collaborators</p>
-        <p>Description of the project</p>
-       
-        <p><button class="button">Contact</button></p>
+        <h2>Flat Fabrication of Self-Assembling Space Systems</h2>
+        <p class="title">Collaborators: Russell Mailen</p>
       </div>
   </div>
 </div>
