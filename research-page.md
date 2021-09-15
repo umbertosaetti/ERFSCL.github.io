@@ -170,7 +170,7 @@ html {
     </div>
     </p>
      <div class="container">
-        <h2>Reseliance of Proliferated LEO Constellations</h2>
+        <h2>Resilience of Proliferated LEO Constellations</h2>
         <p class="title">Collaborators: Daniel Tauritz</p>
       </div>
   </div>
