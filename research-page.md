@@ -20,6 +20,7 @@ html {
   float: left;
   width: 50%;
   margin-bottom: 16px;
+  margin-top: 16px;
   padding: 0 8px;
 }
 
