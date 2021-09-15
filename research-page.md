@@ -147,7 +147,7 @@ html {
       <img src="./assets/projects/flatfab/NIAC_cover_GuzzettiMailen - withLogo - v2.png" style="width:100%">
     </div>
     <div class="column">
-      <img src="./assets/projects/flatfab/solar_constant_experiment.png" style="width:100%">
+      <img src="./assets/projects/flatfab/solar_constant_experiment_square.png" style="width:100%">
     </div>
      <div class="container">
        </p>
