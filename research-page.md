@@ -117,6 +117,7 @@ html {
    <p>
 <div class="row">
   <div class="card">
+    <p>
     <div class="column">
       <img src="./assets/projects/multibody/artwork007.png" style="width:100%">
     </div>
@@ -124,6 +125,7 @@ html {
       <img src="./assets/projects/multibody/L1Lyapunov.gif" style="width:100%">
     </div>
      <div class="container">
+       </p>
         <h2>6DOF Motion within Multi-Body Gravitational Fields</h2>    
        <p>
 <a href="https://engineering.purdue.edu/people/kathleen.howell.1/Publications/Conferences/2017_AAS_GuzZimHowDav.pdf" download> <button class="btn"><i class="fa fa-file-pdf-o"></i> 2017 </button> </a>
@@ -140,6 +142,7 @@ html {
         <p>
  <div class="row">
   <div class="card">
+    <p>
     <div class="column">
       <img src="./assets/projects/flatfab/NIAC_cover_GuzzettiMailen - withLogo - v2.png" style="width:100%">
     </div>
@@ -147,6 +150,7 @@ html {
       <img src="./assets/projects/flatfab/solar_constant_experiment.png" style="width:100%">
     </div>
      <div class="container">
+       </p>
         <h2>Flat Fabrication of Self-Assembling Space Systems</h2>
         <p class="title">Collaborators: Russell Mailen</p>
       </div>
@@ -156,6 +160,7 @@ html {
       <p>  
 <div class="row">
   <div class="card">
+    <p>
     <div class="column">
       <img src="./assets/projects/pleo/sattycoon.gif" style="width:100%">
     </div>
@@ -163,6 +168,7 @@ html {
       <img src="./assets/projects/pleo/atlasn.jpg" style="width:100%">
     </div>
      <div class="container">
+       </p>
         <h2>Reseliance of Proliferated LEO Constellations</h2>
         <p class="title">Collaborators: Daniel Tauritz</p>
       </div>
