@@ -177,6 +177,62 @@ html {
   </div>
 </div>
   </p>
+  
+  <p>  
+<div class="row">
+  <div class="card">
+    <p>
+    <div class="column">
+      <img src="./assets/projects/pleo/sattycoon." style="width:100%">
+    </div>
+    <div class="column">
+      <img src="./assets/projects/pleo/atlasn." style="width:100%">
+    </div>
+    </p>
+     <div class="container">
+        <h2>Immersive Trajectory Design and Mission Analysis</h2>
+      </div>
+  </div>
+</div>
+  </p>
+  
+  <p>  
+<div class="row">
+  <div class="card">
+    <p>
+    <div class="column">
+      <img src="./assets/projects/pleo/satycoon.gif" style="width:100%">
+    </div>
+    <div class="column">
+      <img src="./assets/projects/pleo/alasn.png" style="width:100%">
+    </div>
+    </p>
+     <div class="container">
+        <h2>Human-Machine Teaming for Space System Autonomy and Management</h2>
+      </div>
+  </div>
+</div>
+  </p>
+  
+  
+  <p>  
+<div class="row">
+  <div class="card">
+    <p>
+    <div class="column">
+      <img src="./assets/projects/pleo/sattcoon.gif" style="width:100%">
+    </div>
+    <div class="column">
+      <img src="./assets/projects/pleo/atlas.png" style="width:100%">
+    </div>
+    </p>
+     <div class="container">
+        <h2>Student Competitions</h2>
+        <p class="title">Collaborators: Ehsan Taheri</p>
+      </div>
+  </div>
+</div>
+  </p>
        
 </body>
 </html>
