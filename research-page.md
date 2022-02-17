@@ -196,10 +196,10 @@ html {
   <div class="card">
     <p>
     <div class="column">
-      <img src="./assets/projects/pleo/satycoon.gif" style="width:100%">
+      <img src="./assets/projects/human-machine/asteroid_squadron_square.gif" style="width:100%">
     </div>
     <div class="column">
-      <img src="./assets/projects/pleo/alasn.png" style="width:100%">
+      <img src="./assets/projects/pleo/attention.png" style="width:100%">
     </div>
     </p>
      <div class="container">
