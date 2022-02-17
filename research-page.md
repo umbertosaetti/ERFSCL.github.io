@@ -157,12 +157,10 @@ html {
         <p class="title">Collaborators: Russell Mailen</p>
        
        <p>
-<a href="https://engineering.purdue.edu/people/kathleen.howell.1/Publications/Conferences/2017_AAS_GuzZimHowDav.pdf" download> <button class="btn"><i class="fa fa-file-pdf-o"></i> 2017 </button> </a>
-       <a href="https://link.springer.com/article/10.1007/s42064-017-0012-7"> <button class="btn"><i class="fa fa-file-pdf-o"></i> 2018 </button> </a>
-       <a href="./assets/projects/multibody/guzzetti2019.pdf" download> <button class="btn"><i class="fa fa-file-pdf-o"></i> 2019 </button> </a> </p>
-            <p>
-              
-      </div>
+<a href="./assets/projects/flatfab/poster2020.pdf" download> <button class="btn"><i class="fa fa-television"></i> 2020 </button> </a>
+       <a href="./assets/projects/flatfab/long2021.pdf"> <button class="btn"><i class="fa fa-file-pdf-o"></i> 2021 </button> </a>
+       <a href="https://youtu.be/SA0EGtNQh-s"> <button class="btn"><i class="fa fa-youtube-play"></i> The Idea </button> </a> </p>
+           </div>
   </div>
 </div>
   </p>
