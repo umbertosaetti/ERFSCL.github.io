@@ -183,10 +183,7 @@ html {
   <div class="card">
     <p>
     <div class="column">
-      <img src="./assets/projects/pleo/sattycoon." style="width:100%">
-    </div>
-    <div class="column">
-      <img src="./assets/projects/pleo/atlasn." style="width:100%">
+      <img src="./assets/projects/vr/VR_scene.png" style="width:100%">
     </div>
     </p>
      <div class="container">
