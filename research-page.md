@@ -199,7 +199,7 @@ html {
       <img src="./assets/projects/human-machine/asteroid_squadron_square.gif" style="width:100%">
     </div>
     <div class="column">
-      <img src="./assets/projects/pleo/attention.png" style="width:100%">
+      <img src="./assets/projects/human-machine/attention.png" style="width:100%">
     </div>
     </p>
      <div class="container">
@@ -218,7 +218,7 @@ html {
       <img src="./assets/projects/competitions/drill.jpg" style="width:100%">
     </div>
     <div class="column">
-      <img src="./assets/projects/competitions/drill_banner.png" style="width:100%">
+      <img src="./assets/projects/competitions/drill_banner.jpg" style="width:100%">
     </div>
     </p>
      <div class="container">
