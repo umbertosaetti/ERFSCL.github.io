@@ -182,9 +182,7 @@ html {
 <div class="row">
   <div class="card">
     <p>
-    <div class="column">
       <img src="./assets/projects/vr/VR_scene.png" style="width:100%">
-    </div>
     </p>
      <div class="container">
         <h2>Immersive Trajectory Design and Mission Analysis</h2>
