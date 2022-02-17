@@ -217,10 +217,10 @@ html {
   <div class="card">
     <p>
     <div class="column">
-      <img src="./assets/projects/pleo/sattcoon.gif" style="width:100%">
+      <img src="./assets/projects/competitions/drill.jpg" style="width:100%">
     </div>
     <div class="column">
-      <img src="./assets/projects/pleo/atlas.png" style="width:100%">
+      <img src="./assets/projects/competitions/drill_banner.png" style="width:100%">
     </div>
     </p>
      <div class="container">
