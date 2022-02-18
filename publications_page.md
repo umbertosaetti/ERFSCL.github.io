@@ -6,13 +6,13 @@
 
 **2021**
 
-Somavarapu, D. H.*, Guzzetti, D., “Toward Immersive Spacecraft Trajectory Design: Mapping User Drawings to Natural Periodic Orbits.” Acta Astronautica, Vol. 184, July 2021, pp. 208-22, https://doi.org/10.1016/j.actaastro.2021.04.004.
+Somavarapu, D. H.\*, Guzzetti, D., “Toward Immersive Spacecraft Trajectory Design: Mapping User Drawings to Natural Periodic Orbits.” Acta Astronautica, Vol. 184, July 2021, pp. 208-22, https://doi.org/10.1016/j.actaastro.2021.04.004.
 
-Parmar K.*, Guzzetti, D., “Interactive Imitation Learning for Spacecraft Path-Planning in Binary Asteroid Systems.” Advances in Space Research, Vol. 68, No. 4, 2021, https://doi.org/10.1016/j.asr.2021.04.023.
+Parmar K.\*, Guzzetti, D., “Interactive Imitation Learning for Spacecraft Path-Planning in Binary Asteroid Systems.” Advances in Space Research, Vol. 68, No. 4, 2021, https://doi.org/10.1016/j.asr.2021.04.023.
 
-Perera, R.*, Guzzetti, D., and Agrawal, V., “Optimized and autonomous machine learning framework for characterizing pores, particles, grains and grain boundaries in microstructural images.” Computational Materials Science, Vol. 196, August 2021, https://doi.org/10.1016/j.commatsci.2021.110524.
+Perera, R.\*, Guzzetti, D., and Agrawal, V., “Optimized and autonomous machine learning framework for characterizing pores, particles, grains and grain boundaries in microstructural images.” Computational Materials Science, Vol. 196, August 2021, https://doi.org/10.1016/j.commatsci.2021.110524.
 
-Brandonisio, A.*, Lavagna, M. and Guzzetti, D., 2021. Reinforcement Learning for Uncooperative Space Objects Smart Imaging Path-Planning. The Journal of the Astronautical Sciences, 68(4), pp.1145-1169.
+Brandonisio, A.\*, Lavagna, M. and Guzzetti, D., 2021. Reinforcement Learning for Uncooperative Space Objects Smart Imaging Path-Planning. The Journal of the Astronautical Sciences, 68(4), pp.1145-1169.
 
 **2020**
 
@@ -59,25 +59,25 @@ DOI: 10.2514/1.G000469
 
 **2021**
 
-Indaco, M.*, Harris, S., Seals, D., Tauritz, D.R., and Guzzetti, D. “Toward Co-Evolving Solutions of Adversarial Ground Stations Transit Time Games For P-LEO Constellation Management” AAS/AIAA Astrodynamics Specialist Conference, Big Sky, MT, August 2021
+Indaco, M.\*, Harris, S., Seals, D., Tauritz, D.R., and Guzzetti, D. “Toward Co-Evolving Solutions of Adversarial Ground Stations Transit Time Games For P-LEO Constellation Management” AAS/AIAA Astrodynamics Specialist Conference, Big Sky, MT, August 2021
 
-Somavarapu, D.H.*, Landon, P.D, Busato, J., Kaiser, M.A, Martin, K.M., Miskioglu, E.M., and Guzzetti, D.“Virtual-Reality-Based Astrodynamics Applications using A-Frame: A Tutorial” AAS/AIAA Astrodynamics Specialist Conference, Big Sky, MT, August 2021
+Somavarapu, D.H.\*, Landon, P.D, Busato, J., Kaiser, M.A, Martin, K.M., Miskioglu, E.M., and Guzzetti, D.“Virtual-Reality-Based Astrodynamics Applications using A-Frame: A Tutorial” AAS/AIAA Astrodynamics Specialist Conference, Big Sky, MT, August 2021
 
-Parmar, K.\*, Indaco, M.\*, Long R., Taylor, W., Adknis, N.*, Singla, D.*, Mailen, R.W., and Guzzetti D., “Design and Analysis of Deployment Mechanics for a Self-Folding, Spiral Based Space-Borne Interferometer.” AAS/AIAA Space Flight Mechanics Meeting, Virtual, February 2021
+Parmar, K.\*, Indaco, M.\*, Long R., Taylor, W., Adknis, N.\*, Singla, D.\*, Mailen, R.W., and Guzzetti D., “Design and Analysis of Deployment Mechanics for a Self-Folding, Spiral Based Space-Borne Interferometer.” AAS/AIAA Space Flight Mechanics Meeting, Virtual, February 2021
 
 **2020**
 
-Kaiser, M.A, Landon, P.D, Martin, K.M., Miskioglu, E.M., Somavarapu, D.H.*, and Guzzetti, D.” Teaching the Moonshot: Getting There and Back with Multi-Body Dynamics.” AIAA Ascend, Las Vegas, NV, November  2020
+Kaiser, M.A, Landon, P.D, Martin, K.M., Miskioglu, E.M., Somavarapu, D.H.\*, and Guzzetti, D.” Teaching the Moonshot: Getting There and Back with Multi-Body Dynamics.” AIAA Ascend, Las Vegas, NV, November  2020
 
-Patel, J., Somavarapu*, D. H., Seals, D., Tauritz, D. R., and Guzzetti, D., “ Adversarial threats to large satellite networks (ATLAS-N) a coevolutionary approach based on FlipIt.” In Proceedings of the 2020 Genetic and Evolutionary Computation Conference Companion (pp. 1503-1511). Virtual, July 2020
+Patel, J., Somavarapu, D. H.\*, Seals, D., Tauritz, D. R., and Guzzetti, D., “ Adversarial threats to large satellite networks (ATLAS-N) a coevolutionary approach based on FlipIt.” In Proceedings of the 2020 Genetic and Evolutionary Computation Conference Companion (pp. 1503-1511). Virtual, July 2020
 
-Guzzetti, D., Somavarapu*, D. H., & Turner*, G. “An Assessment of Virtual Reality Technology for Astrodynamics Applications.” In AAS/AIAA Astrodynamics Specialist Conference, South Lake Tahoe, CA, August 2020
+Guzzetti, D., Somavarapu, D. H.\*, & Turner\*, G. “An Assessment of Virtual Reality Technology for Astrodynamics Applications.” In AAS/AIAA Astrodynamics Specialist Conference, South Lake Tahoe, CA, August 2020
 
-Indaco*, M., Lavagna, M., and Guzzetti, D. “Autonomous Small Body Gravimetry Via A2C Path-Planning.” In AAS/AIAA Astrodynamics Specialist Conference, South Lake Tahoe, CA, August 2020
+Indaco, M.\*, Lavagna, M., and Guzzetti, D. “Autonomous Small Body Gravimetry Via A2C Path-Planning.” In AAS/AIAA Astrodynamics Specialist Conference, South Lake Tahoe, CA, August 2020
 
-Brandonisio*, A., Lavagna, M., and Guzzetti, D. “Deep Reinforcement Learning to Enhance Fly-Around Guidance For Uncooperative Space Objects Smart Imaging.” In AAS/AIAA Astrodynamics Specialist Conference, South Lake Tahoe, CA, August 2020
+Brandonisio, A.\*, Lavagna, M., and Guzzetti, D. “Deep Reinforcement Learning to Enhance Fly-Around Guidance For Uncooperative Space Objects Smart Imaging.” In AAS/AIAA Astrodynamics Specialist Conference, South Lake Tahoe, CA, August 2020
 
-Marcus A. Kaiser, Parker D. Landon, Kaela M. Martin, Elif M. Miskioglu, Dhathri Somavarapu*, and Davide Guzzetti.” Teaching the Moonshot: Getting There and Back with Multi-Body Dynamics.” In AIAA Ascend, Las Vegas, November 2020
+Marcus A. Kaiser, Parker D. Landon, Kaela M. Martin, Elif M. Miskioglu, Dhathri Somavarapu\*, and Davide Guzzetti.” Teaching the Moonshot: Getting There and Back with Multi-Body Dynamics.” In AIAA Ascend, Las Vegas, November 2020
 
 **2019**
 
