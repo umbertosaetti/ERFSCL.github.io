@@ -63,7 +63,7 @@ Indaco, M.*, Harris, S., Seals, D., Tauritz, D.R., and Guzzetti, D. “Toward Co
 
 Somavarapu, D.H.*, Landon, P.D, Busato, J., Kaiser, M.A, Martin, K.M., Miskioglu, E.M., and Guzzetti, D.“Virtual-Reality-Based Astrodynamics Applications using A-Frame: A Tutorial” AAS/AIAA Astrodynamics Specialist Conference, Big Sky, MT, August 2021
 
-Parmar, K.*, Indaco, M.*, Long R., Taylor, W., Adknis, N.*, Singla, D.*, Mailen, R.W., and Guzzetti D., “Design and Analysis of Deployment Mechanics for a Self-Folding, Spiral Based Space-Borne Interferometer.” AAS/AIAA Space Flight Mechanics Meeting, Virtual, February 2021
+Parmar, K.\*, Indaco, M.\*, Long R., Taylor, W., Adknis, N.*, Singla, D.*, Mailen, R.W., and Guzzetti D., “Design and Analysis of Deployment Mechanics for a Self-Folding, Spiral Based Space-Borne Interferometer.” AAS/AIAA Space Flight Mechanics Meeting, Virtual, February 2021
 
 **2020**
 
