@@ -196,7 +196,7 @@ html {
         <h2>Immersive Trajectory Design and Mission Analysis</h2>
        <p>
           <a href="./assets/projects/vr/guzzetti2020.pdf"> <button class="btn"><i class="fa fa-file-pdf-o"></i> 2020 </button> </a>
-         <a href="https://engineering.purdue.edu/people/kathleen.howell.1/Publications/Conferences/2017_AAS_GuzZimHowDav.pdf"> <button class="btn"><i class="fa fa-file-pdf-o"></i> 2021 </button> </a>
+         <a href="https://ui.adsabs.harvard.edu/link_gateway/2021AcAau.184..208S/doi:10.1016/j.actaastro.2021.04.004"> <button class="btn"><i class="fa fa-file-pdf-o"></i> 2021 </button> </a>
          <a href="./assets/projects/vr/somavarapu2021.pdf"> <button class="btn"><i class="fa fa-file-pdf-o"></i> 2021 </button> </a>
        </p>
       </div>
