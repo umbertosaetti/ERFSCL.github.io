@@ -217,7 +217,12 @@ html {
     </p>
      <div class="container">
         <h2>Human-Machine Teaming for Space System Autonomy and Management</h2>
+       <p>
+   <a href="https://ieeexplore.ieee.org/abstract/document/8651466"> <button class="btn"><i class="fa fa-file-pdf-o"></i> 2019 </button> </a>      
+<a href="https://ui.adsabs.harvard.edu/link_gateway/2021AdSpR..68.1928P/doi:10.1016/j.asr.2021.04.023"> <button class="btn"><i class="fa fa-file-pdf-o"></i> 2021 </button> </a>
+       </p>  
       </div>
+  
   </div>
 </div>
   </p>
