@@ -243,8 +243,9 @@ html {
         <h2>Student Competitions</h2>
         <p class="title">Collaborators: Ehsan Taheri</p>
        <p>
-         <a href="https://www.youtube.com/watch?v=b7qNSaM_k6s&t=90s"> <button class="btn"><i class="fa fa-youtube-play"></i> The Idea </button> </a> 
-       <a href="https://www.youtube.com/watch?v=xaCj19op5y8"> <button class="btn"><i class="fa fa-youtube-play"></i> The Final </button> </a> </p>
+<a href="https://www.youtube.com/watch?v=xaCj19op5y8"> <button class="btn"><i class="fa fa-youtube-play"></i> The Idea </button> </a>
+         <a href="https://www.youtube.com/watch?v=b7qNSaM_k6s&t=90s"> <button class="btn"><i class="fa fa-youtube-play"></i> The Final</button> </a> 
+        </p>
       </div>
   </div>
 </div>
