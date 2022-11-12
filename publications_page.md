@@ -1,8 +1,10 @@
 | [About](./index.html)      | [People](./people-page.html)         | [Research](./research-page.html) |[Publications](./publications_page.html)|
 
-## Peer-reviewed journal articles
+## Journal Papers
 
-*research group members or visiting members.
+**2022**
+
+Saetti U., and Horn J. F., “Linear Time-Invariant Approximations of Nonlinear Time-Periodic Systems,” Journal of the American Helicopter Society, Article in Advance, Jul 2022, https://doi.org/10.4050/JAHS.68.012006. 
 
 **2021**
 
@@ -54,7 +56,7 @@ Knutson, A., Guzzetti, D., Howell, K., and Lavagna, M., “Attitude Responses in
 DOI: 10.2514/1.G000469
  
 
-## Conference articles
+## Conference Papers
 *research group members or visiting members.
 
 **2021**
@@ -126,9 +128,5 @@ Guzzetti, D., Armellin, R., and Lavagna, M., “Coupling Attitude and Orbital Mo
 
 Guzzetti, D., Lavagna, M., and Armellin, R., “Invariant Manifolds to Design Scientific Operative Orbits in the Pluto-Charon Binary System,” AAS/AIAA Space Flight Mechanics Meeting, Charlotte, South Carolina, January 2012
  
-## Invited Articles
-
-Guzzetti, D., and Howell, K., “Attitude Dynamics in the Circular Restricted Three-Body Problem,” Astrodynamics, Vol. 2, No. 2, May 2018, pp. 87-119,
-DOI:10.1007/s42064-017-0012-7 (cover article)
 
 
