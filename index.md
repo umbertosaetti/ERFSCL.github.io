@@ -15,6 +15,10 @@ Modeling, simulation, order reduction, and control of high-order models of the c
 * Human-Machine Interaction
 * Applications Rotary- and Flapping-Wing Vehicles
 
+## Sponsors 
+
+<img src="./assets/img/Army.png" width="24"> | <img src="./assets/img/ONR.png" width="24"> | <img src="./assets/img/NASA.png" width="24">
+
 ## Contact Us
 
 email: saetti@umd.edu
