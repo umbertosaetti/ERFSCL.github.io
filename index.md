@@ -1,5 +1,5 @@
 
-| [About](./index.html) | [People](./people-page.html) | [Research](./research-page.html) |[Publications](./publications_page.html)| [Equipment](./equipment_page.html) | [Funding](./funding_page.html) |
+| [About](./index.html) | [People](./people-page.html) | [Research](./research-page.html) | [Funding](./funding_page.html) |[Publications](./publications_page.html)| [Equipment](./equipment_page.html) | 
 
 ## Research Vision
 
