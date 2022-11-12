@@ -17,7 +17,7 @@ Modeling, simulation, order reduction, and control of high-order models of the c
 
 ## Sponsors 
 
-<img src="./assets/img/Army.png" width="24"> | <img src="./assets/img/ONR.png" width="24"> | <img src="./assets/img/NASA.png" width="24">
+<img src="./assets/img/Army_2.png" width="24"> | <img src="./assets/img/ONR.png" width="24"> | <img src="./assets/img/NASA.png" width="24">
 
 ## Contact Us
 
