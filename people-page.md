@@ -1,5 +1,9 @@
 | [About](./index.html)      | [People](./people-page.html)         | [Research](./research-page.html) |[Publications](./publications_page.html)|
 
+## Lab Director 
+
+
+
 ## Current Students
 
 <html>
@@ -70,8 +74,8 @@ html {
     <div class="card">
       <img src="./assets/img/dhathri.jpg" style="width:100%">
       <div class="container">
-        <h2>Dhathri Somavarapu</h2>
-        <p class="title">Graduate Student</p>
+        <h2>Batin Bugday</h2>
+        <p class="title">PhD Student</p>
         <p>Her research interests include visual-based interactive design for astrodynamics that is enabled by extended reality (XR) technology.</p>
       </div>
     </div>
@@ -81,8 +85,8 @@ html {
     <div class="card">
       <img src="./assets/img/kanak.JPG" style="width:100%">
       <div class="container">
-        <h2>Kanak Parmar</h2>
-        <p class="title">Graduate Student</p>
+        <h2>Michael Morcos</h2>
+        <p class="title">MS Student</p>
         <p>Her research interests include astrodynamics and adaptive trajectory planning algorithms.</p>
       </div>
     </div>
